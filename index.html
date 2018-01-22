@@ -19,8 +19,8 @@ title: Website Optimisation
 		</div>
 		<div>
 			<ul class="image-grid">
-				{% for client in site.clients limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" /></a></li>
+				{% for whofor in site.whofors limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ whofor.url }}"><img src="{% include relative-src.html src=whofor.image_path %}" /></a></li>
 				{% endfor %}
 			</ul>
 		</div>
