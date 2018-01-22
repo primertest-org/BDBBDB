@@ -20,7 +20,7 @@ title: Website Optimisation
 		<div>
 			<ul class="image-grid">
 				{% for whofor in site.whofors limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ whofor.url }}"><img src="{% include relative-src.html src=whofor.image_path %}" /></a></li>
+					<li><a href="{{ site.baseurl }}{{ whofor.url }}">{{ whofor.name }}</a></li>
 				{% endfor %}
 			</ul>
 		</div>
