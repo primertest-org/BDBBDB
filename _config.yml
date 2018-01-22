@@ -1,12 +1,12 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: Speed Size Influence
+url: "https://brainy-blossom.cloudvent.net"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Website Speed Optimisation. Conversion Optimisation. Search Engine Optimisation.
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,14 +16,14 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Speed Size Influence
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    - https://speedsizeinfluence.com
 
 collections:
   staff_members:
     output: false
-  clients:
+  whofors:
     output: true
 
 paginate: 10
