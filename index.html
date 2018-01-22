@@ -18,7 +18,7 @@ title: Website Optimisation
 			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">View Full Portfolio &rarr;</a></p>
 		</div>
 		<div>
-			<ul class="image-grid">
+			<ul class="not-image-grid">
 				{% for whofor in site.whofors limit: 4 %}
 					<li><a href="{{ site.baseurl }}{{ whofor.url }}">{{ whofor.name }}</a></li>
 				{% endfor %}
