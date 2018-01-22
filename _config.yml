@@ -52,9 +52,9 @@ defaults:
           height: 2000
   - scope:
       path: ""
-      type: "clients"
+      type: "whofors"
     values:
-      layout: "client"
+      layout: "whofor"
       _options:
         image_path:
           width: 2000
