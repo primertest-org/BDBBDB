@@ -12,4 +12,10 @@ It's been a long time coming but now is time. Time for me to speak out and to gi
 
 I want my clients to laser focus on improving their business each and every day for 365 days.
 
-&nbsp;
+![](https://lh3.googleusercontent.com/-bbMoJDhzLfA/WrogidIm2CI/AAAAAAAAVmQ/bJ8oEl5Uls0bUrKNZwUJJG63E-jDC67AACJoC/w530-h267-n-rw)
+
+If you can improve your business by just 1% everyday then by the end of the year 1 becomes 37.8. That is growth by any measure.
+
+If however you were to let things slide by 1% everyday then by the end of the year your business will be only 3% of the business you started with.
+
+Is it possible to improve your business by 1% everyday. Quite possibly. What is clear is that if you do nothing you will go nowhere.
