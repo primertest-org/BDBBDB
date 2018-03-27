@@ -80,6 +80,10 @@ defaults:
 
 # -----------
 # CloudCannon
+# -----------
+_editable_regions:
+  image:
+    url_src: true
 
 social_icons:
   - Facebook
