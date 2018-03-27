@@ -1,5 +1,5 @@
 ---
-title: Shocking Facts
+title: As little as 1% is a Shocking Fact
 categories:
   - marketing
   - tips
